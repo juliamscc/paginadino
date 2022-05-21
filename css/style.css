@@ -9,13 +9,14 @@ html, body {
 header{
   padding: 10px;
   text-align: center;
+  color: white;
   background-color: #1867c0;
 }
 
 main{
   background-color: #ccf5ff;
   padding: 10px;
-  margin: 20px;
+  margin: 20px auto;
   width: 70%;
   border: 3px solid #8CC0DE;
 }
